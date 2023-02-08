@@ -6,9 +6,9 @@ import java.util.Stack;
 
 public class Calculator {
 
-    // Create a stack to store operands
+    // Create a stack to store operands (i.e. numbers to calculate)
     // "3 4 5 + *" - operands are the values 3, 4 and 5
-    private Deque<Integer> operandStack = new ArrayDeque<Integer>(10);
+    private Deque<Integer> operandStack = new ArrayDeque<>(15);
 
     // Java API recommends using Deque rather than Stack class for a stack !
 
