@@ -1,6 +1,6 @@
 package dkit.oop;
 /**
- * Implement a simple Calculator using a Stack            Feb 2023
+ * Implement a simple Calculator using a Stack            Nov 2023
  * Expressions to be solved are presented in
  * Reverse Polish Notation (RPN)
  *
